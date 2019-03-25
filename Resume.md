@@ -17,7 +17,7 @@
 - 熟练使用 JavaScript，对面向对象编程有较深的理解
 - 熟练使用 jQuery 库，Bootstrap 框架,能利用 Bootstrap 迅速完成网页制作
 - 熟悉 HTML5、CSS3，熟悉 H5 新增语义化标签以及部分新增 API
-- 悉移动 WEB 开发，微信 H5 公众号小程序等开发
+- 熟悉移动 WEB 开发，微信 H5 公众号小程序等开发
 - 熟悉前端自动化工作流环境，熟悉 gulp，webpack 等
 - 熟悉 ajax,轻松处理 json 数据，并能很好的解决资源请求所涉及
 的跨域问题
