@@ -23,10 +23,6 @@
 - 熟悉前端框架，Vue、React
 - 熟悉 ECharts,制作直观,生动,可交互的数据可视化图表
 - 了解 HTTP 协议 PHP，MySQ ，node.js
-<!-- - 前端技术栈：Vue / React 
-- 前端工具：Webpack
-- 版本管理:  Svn / Git -->
-<!-- - 其他语言：Java(**Spring Boot**)/C/Python(**Tornado**) -->
 
 ## 工作经历
 ### 1、杭州如程网络有限公司（2019.5 ~ 至今）
